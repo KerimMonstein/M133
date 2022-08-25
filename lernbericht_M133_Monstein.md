@@ -24,7 +24,7 @@ Im Bild zeige ich, wie man mit dem Link auf eine andere Seite kommt, im Code wie
 
 # Reflektion zum Arbeitsprozess
 
-👍 Bisher bin ich in diesem Modul gut vorangekommen. Dank den höhenverstellbaren Tischen im Klassenzimmer, konnte ich zur Abwechslung angenehmer am Tisch sitzen. Mit den Aufträgen komme ich weitgehend ohne grössere Probleme voran.
+👍 Bisher bin ich in diesem Modul gut vorangekommen. Dank den höhenverstellbaren Tischen im Klassenzimmer, konnte ich zur Abwechslung angenehmer am Tisch sitzen. Mit den Aufträgen komme ich weitgehend ohne grössere Probleme voran.<br>
 👎 Bei der Arbeit heute hatte ich vermehrt Kopfschmerzen, was mich in meiner Konzentration gestört hat. 
 
 **VBV**: Ich werde zukünftig darauf achten, meine Pausen weniger am Bildschirm zu verbringen, mehr Wasser zu trinken und mehr frische Luft zu atmen.
